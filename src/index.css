@@ -1,0 +1,9 @@
+@import "tailwindcss";
+*{
+  color:lavenderblush;
+}
+
+body{
+  background-color: #111;
+  
+}
